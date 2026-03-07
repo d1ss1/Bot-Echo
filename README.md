@@ -19,4 +19,4 @@ _**![Python][badge] ![aiogram][badge] **_
 • _Logs chats to the file `logs/chat.log`_
 • _Handles errors • Ready for production_
 
-## 📱 Demo dialog
+## 📱 Demo dialog.
