@@ -4,7 +4,7 @@ _**![Python][badge] ![aiogram][badge] **_
 
 
 ## ✨ Что делает
-• _Повторяет **все** твои сообщения  _
+• Повторяет **все** твои сообщения  
 • _Логирует чаты в файл `logs/chat.log`_
 • _Обрабатывает ошибки • Готов к продакшену_
 
@@ -15,7 +15,7 @@ _**![Python][badge] ![aiogram][badge] **_
 _**![Python][badge] ![aiogram][badge] **_
 
 ## ✨ What it does
-• _Repeats **all** your messages _
+• Repeats **all** your messages 
 • _Logs chats to the file `logs/chat.log`_
 • _Handles errors • Ready for production_
 
